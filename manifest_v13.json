@@ -1,0 +1,25 @@
+{
+  "name": "Fragebogen-Bibliothek Psychotherapie",
+  "short_name": "FB-Bibliothek",
+  "description": "Lizenzfreie diagnostische Fragebogeninstrumente für die ambulante Richtlinienpsychotherapie – Erwachsene",
+  "start_url": "./fragebogen_bibliothek_v13.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2c6e91",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
